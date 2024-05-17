@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @AndroRadar
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on xda
-- 📫 email - kushwahayush47@gmail.com
+Techy 💀
 
 <!---
 AndroRadar/AndroRadar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
